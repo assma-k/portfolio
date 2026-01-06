@@ -1,9 +1,9 @@
 ---
 layout: post
-title: À propos de moi 
+title: À propos de moi
 ---
-# Assma Kebbous
 
+# Assma Kebbous
 
 ## mon parcours
 **2025 - 2027 | Web@cademie by Epitech** : Apprentissage intensif du développement (Pédagogie active, projets concrets, autonomie).  
@@ -13,9 +13,10 @@ title: À propos de moi
 
 ## Compétences Techniques
 
- **languagues** HTML5, CSS, JavaScript, PHP.  
- **Outils** Git, GitHub, VS Code, Terminal (Linux), wsl  
+**languagues** HTML5, CSS, JavaScript, PHP.  
+ **Outils** Git, GitHub, VS Code, Terminal (Linux), wsl
 
- ## qualités personnel 
+## qualités personnel
 
- **ponctualités** : Respect rigoureux des horaires et des deadlines projets.  
+**ponctualités** : Respect rigoureux des horaires et des deadlines projets.  
+ **Curiosité Technique** : Passionnée par l'apprentissage continu, je m'adapte rapidement aux nouveaux outils et langages.
