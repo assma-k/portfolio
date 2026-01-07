@@ -1,6 +1,6 @@
 title: Assma Kebbous
 author: Assma Kebbous
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://assma-k.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
@@ -23,8 +23,8 @@ theme_config:
   show_projects: true # show projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
-  ##show_tags: true # show tags in a blog posts
-  # options for "home" page
+  show_tags: true # show tags in a blog posts
+
   home:
     title_propos: propos
     title_projects: Portfolio
