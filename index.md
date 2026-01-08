@@ -1,6 +1,7 @@
 ---
 layout: home
 title: acceuil
+description: "Développeuse web junior @ Epitech Marseille."
 ---
 
 **Développeuse web @ Epitech Marseille.**
