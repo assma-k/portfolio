@@ -62,6 +62,7 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+  max-height: auto;
 }
 @mixin light-appearance {
   html, body {
