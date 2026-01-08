@@ -20,3 +20,12 @@ title: À propos de moi
 
 **ponctualités** : Respect rigoureux des horaires et des deadlines projets.  
  **Curiosité Technique** : Passionnée par l'apprentissage continu, je m'adapte rapidement aux nouveaux outils et langages.
+
+## langues 
+
+**Français** : langue maternelle  
+**Anglais** :  notion de base
+
+## centre d'intérêt
+
+**Loisirs** : jeux-vidéos, serie  
