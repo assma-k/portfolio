@@ -7,7 +7,7 @@ title: contact
 
 ### Coordonnées
 
-- **Email :** assma.kebbous@epitech.eu
+- **Email :** /assma.kebbous@epitech.eu/
 - **Profils professionnels :**
   - [GitHub](https://github.com/assma-k)
   - [LinkedIn]()
