@@ -8,6 +8,9 @@ navbar_entries:
   - title: contact
     url: contact
 
+  - title: home
+    url: index
+
 
 project_entries:
   - title: Klivio CSS

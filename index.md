@@ -1,6 +1,6 @@
 ---
 layout: home
-title: acceuil
+title: home
 ---
 
 **Développeuse web @ Epitech Marseille.**
